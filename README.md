@@ -10,13 +10,13 @@ Descrição:
 
 Autores:
 
-*Andre Mateus Rodrigues Dantas;
-*Eduardo Ladeira Cotta;
-*Marcella J. Ferreira Nunes.
+* Eduardo Ladeira Cotta;
+
+* Marcella J. Ferreira Nunes.
 
 
 Ferramentas:
 
-*Eclipse;
-*NetBeans;
-*GitHub.
+* Eclipse;
+* NetBeans;
+* GitHub.
